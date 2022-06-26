@@ -37,5 +37,4 @@ Thus, we created below interactive dashboard as per his requirement. Now, he cou
 ##  UT Mart Sales Analytics Dashboard
 
 
-![UT Mart Sales PNG](https://user-images.githubusercontent.com/107679222/175813296-39f14ebf-18d0-45d5-b078-1c8bc2ce8c10.PNG)
 
