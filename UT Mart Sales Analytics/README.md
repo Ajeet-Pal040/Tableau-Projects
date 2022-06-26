@@ -32,8 +32,7 @@ Utkarsh also noted that Profit is 30% of the selling price.
 He has given us csv files from which we have to create a Dashboard for his quick review so that he could take further decisions for the benefit of the company.
 
 Thus, we created below interactive dashboard as per his requirement. Now, he could switch and view different shipping stats for different months and years.   
-
-You can view UT Mart Sales Analytics Dashboard on my Tableau Public Profile link - https://public.tableau.com/profile/utkarsh.yadav6297#!/  
+ 
 
 ##  UT Mart Sales Analytics Dashboard
 
@@ -41,4 +40,5 @@ You can view UT Mart Sales Analytics Dashboard on my Tableau Public Profile link
 
 
 
+![UT Mart Sales PNG](https://user-images.githubusercontent.com/107679222/175813296-39f14ebf-18d0-45d5-b078-1c8bc2ce8c10.PNG)
 
