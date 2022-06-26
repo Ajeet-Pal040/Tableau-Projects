@@ -34,7 +34,7 @@ Thus, we created below interactive dashboard as per his requirement. Now, he cou
 <img src="https://github.com/utkarsh-yadav1231/Tableau-Projects/blob/master/Amazon%20Shipping%20Analytics/Screenshots/Amazon%20Shipping%20Analytics%20Image.PNG" alt="SS 1"/>
 ### 2. Tesla Stock Price Dashboard
 
-<img src="https://github.com/utkarsh-yadav1231/Tableau-Projects/blob/master/Tesla%20Stock%20Price/Sceenshots/Tesla%20Analytics%20Image.PNG" alt="SS 2"/>
+<img src="https://github.com/Ajeet-Pal040/Tableau-Projects/blob/main/Tesla%20Stock%20Price/Sceenshots/Tesla%20Analytics%20Image.PNG">
 
 ### 3. UT Mart Sales Analytics Dashboard
 
