@@ -39,7 +39,7 @@ Thus, we created below interactive dashboard as per his requirement. Now, he cou
 
 ### 3. UT Mart Sales Analytics Dashboard
 
-<img src="https://github.com/utkarsh-yadav1231/Tableau-Projects/blob/master/UT%20Mart%20Sales%20Analytics/Screenshots/UT%20Mart%20Sales%20PNG.PNG" alt="SS 3"/>
+<img src="https://github.com/Ajeet-Pal040/Tableau-Projects/blob/master/UT%20Mart%20Sales%20Analytics/Screenshots/UT%20Mart%20Sales%20PNG.PNG" alt="SS 3"/>
 
 
 ## What I Learnt in Tableau :
