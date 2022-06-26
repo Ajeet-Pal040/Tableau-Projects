@@ -34,4 +34,5 @@ Thus, we created below interactive dashboard as per his requirement. Now, he cou
 
 
 
+![Tesla Analytics Image](https://user-images.githubusercontent.com/107679222/175812740-c6896040-8581-4e92-90d1-6250128e5afa.PNG)
 
