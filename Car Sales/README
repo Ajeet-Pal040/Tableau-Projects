@@ -15,9 +15,10 @@ Usage of Tableau software are listed below:
 - For a non-technical user, Tableau is a life saver as it offers the facility to create ‘no-code’ data queries.  
 - Ever since it was introduced, this data visualization tool is used for Business Intelligence industry. Organizations like Amazon, Walmart, Accenture, Lenovo, and so on widely use Tableau.  
 
-Car Sales Analytics
 
-Overview 
+# Car Sales Analytics
+
+###  Overview 
 
 The Stakeholders want dashboard of cars sold in last few years. 
 
@@ -29,8 +30,10 @@ They has given us csv files from which we have to create a Dashboard for his qui
 
 Thus, we created below interactive dashboard as per his requirement. Now, he could switch and view different  stats for different months, years and regions.   
 
-Car Sales Analytics Dashboard
+
+##  Car Sales Analytics Dashboard
 
 <img src="https://github.com/Ajeet-Pal040/Tableau-Projects/blob/main/Car%20Sales/Car%20sale%20Workbook.pdf/>
+
 
 
