@@ -33,7 +33,7 @@ Thus, we created below interactive dashboard as per his requirement. Now, he cou
 
 ##  Car Sales Analytics Dashboard
 
-<img src="https://github.com/Ajeet-Pal040/Tableau-Projects/blob/main/Car%20Sales/Car%20sale%20Workbook.pdf/>
+<img src="https://github.com/Ajeet-Pal040/Tableau-Projects/blob/main/Car%20Sales/Car%20Sales%20Visul.png/">
 
 
 
